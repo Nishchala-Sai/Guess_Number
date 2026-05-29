@@ -38,3 +38,6 @@ Guess_Number/
 ├── SuperAdorable-MAvyp.ttf
 └── BalonkuRegular-la1w.otf
 ```
+## Live Demo
+
+[Play the game here](https://nishchala-sai.github.io/Guess_Number/)
